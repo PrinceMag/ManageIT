@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PrinceMagutshwa\\Documents\\Visual Studio 2022\\Projects\\EmpleyeeManagementSystemSolution\\Server\\Server.csproj": {}
+    "C:\\Users\\PrinceMagutshwa\\Documents\\GitHub\\ManageIT\\Server\\Server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PrinceMagutshwa\\Documents\\Visual Studio 2022\\Projects\\EmpleyeeManagementSystemSolution\\BaseLibrary\\BaseLibrary.csproj": {
+    "C:\\Users\\PrinceMagutshwa\\Documents\\GitHub\\ManageIT\\BaseLibrary\\BaseLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PrinceMagutshwa\\Documents\\Visual Studio 2022\\Projects\\EmpleyeeManagementSystemSolution\\BaseLibrary\\BaseLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\PrinceMagutshwa\\Documents\\GitHub\\ManageIT\\BaseLibrary\\BaseLibrary.csproj",
         "projectName": "BaseLibrary",
-        "projectPath": "C:\\Users\\PrinceMagutshwa\\Documents\\Visual Studio 2022\\Projects\\EmpleyeeManagementSystemSolution\\BaseLibrary\\BaseLibrary.csproj",
+        "projectPath": "C:\\Users\\PrinceMagutshwa\\Documents\\GitHub\\ManageIT\\BaseLibrary\\BaseLibrary.csproj",
         "packagesPath": "C:\\Users\\PrinceMagutshwa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PrinceMagutshwa\\Documents\\Visual Studio 2022\\Projects\\EmpleyeeManagementSystemSolution\\BaseLibrary\\obj\\",
+        "outputPath": "C:\\Users\\PrinceMagutshwa\\Documents\\GitHub\\ManageIT\\BaseLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -74,14 +74,14 @@
         }
       }
     },
-    "C:\\Users\\PrinceMagutshwa\\Documents\\Visual Studio 2022\\Projects\\EmpleyeeManagementSystemSolution\\ServerLibrary\\ServerLibrary.csproj": {
+    "C:\\Users\\PrinceMagutshwa\\Documents\\GitHub\\ManageIT\\ServerLibrary\\ServerLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PrinceMagutshwa\\Documents\\Visual Studio 2022\\Projects\\EmpleyeeManagementSystemSolution\\ServerLibrary\\ServerLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\PrinceMagutshwa\\Documents\\GitHub\\ManageIT\\ServerLibrary\\ServerLibrary.csproj",
         "projectName": "ServerLibrary",
-        "projectPath": "C:\\Users\\PrinceMagutshwa\\Documents\\Visual Studio 2022\\Projects\\EmpleyeeManagementSystemSolution\\ServerLibrary\\ServerLibrary.csproj",
+        "projectPath": "C:\\Users\\PrinceMagutshwa\\Documents\\GitHub\\ManageIT\\ServerLibrary\\ServerLibrary.csproj",
         "packagesPath": "C:\\Users\\PrinceMagutshwa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PrinceMagutshwa\\Documents\\Visual Studio 2022\\Projects\\EmpleyeeManagementSystemSolution\\ServerLibrary\\obj\\",
+        "outputPath": "C:\\Users\\PrinceMagutshwa\\Documents\\GitHub\\ManageIT\\ServerLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -103,8 +103,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\PrinceMagutshwa\\Documents\\Visual Studio 2022\\Projects\\EmpleyeeManagementSystemSolution\\BaseLibrary\\BaseLibrary.csproj": {
-                "projectPath": "C:\\Users\\PrinceMagutshwa\\Documents\\Visual Studio 2022\\Projects\\EmpleyeeManagementSystemSolution\\BaseLibrary\\BaseLibrary.csproj"
+              "C:\\Users\\PrinceMagutshwa\\Documents\\GitHub\\ManageIT\\BaseLibrary\\BaseLibrary.csproj": {
+                "projectPath": "C:\\Users\\PrinceMagutshwa\\Documents\\GitHub\\ManageIT\\BaseLibrary\\BaseLibrary.csproj"
               }
             }
           }
@@ -170,14 +170,14 @@
         }
       }
     },
-    "C:\\Users\\PrinceMagutshwa\\Documents\\Visual Studio 2022\\Projects\\EmpleyeeManagementSystemSolution\\Server\\Server.csproj": {
+    "C:\\Users\\PrinceMagutshwa\\Documents\\GitHub\\ManageIT\\Server\\Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PrinceMagutshwa\\Documents\\Visual Studio 2022\\Projects\\EmpleyeeManagementSystemSolution\\Server\\Server.csproj",
+        "projectUniqueName": "C:\\Users\\PrinceMagutshwa\\Documents\\GitHub\\ManageIT\\Server\\Server.csproj",
         "projectName": "Server",
-        "projectPath": "C:\\Users\\PrinceMagutshwa\\Documents\\Visual Studio 2022\\Projects\\EmpleyeeManagementSystemSolution\\Server\\Server.csproj",
+        "projectPath": "C:\\Users\\PrinceMagutshwa\\Documents\\GitHub\\ManageIT\\Server\\Server.csproj",
         "packagesPath": "C:\\Users\\PrinceMagutshwa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PrinceMagutshwa\\Documents\\Visual Studio 2022\\Projects\\EmpleyeeManagementSystemSolution\\Server\\obj\\",
+        "outputPath": "C:\\Users\\PrinceMagutshwa\\Documents\\GitHub\\ManageIT\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -199,11 +199,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\PrinceMagutshwa\\Documents\\Visual Studio 2022\\Projects\\EmpleyeeManagementSystemSolution\\BaseLibrary\\BaseLibrary.csproj": {
-                "projectPath": "C:\\Users\\PrinceMagutshwa\\Documents\\Visual Studio 2022\\Projects\\EmpleyeeManagementSystemSolution\\BaseLibrary\\BaseLibrary.csproj"
+              "C:\\Users\\PrinceMagutshwa\\Documents\\GitHub\\ManageIT\\BaseLibrary\\BaseLibrary.csproj": {
+                "projectPath": "C:\\Users\\PrinceMagutshwa\\Documents\\GitHub\\ManageIT\\BaseLibrary\\BaseLibrary.csproj"
               },
-              "C:\\Users\\PrinceMagutshwa\\Documents\\Visual Studio 2022\\Projects\\EmpleyeeManagementSystemSolution\\ServerLibrary\\ServerLibrary.csproj": {
-                "projectPath": "C:\\Users\\PrinceMagutshwa\\Documents\\Visual Studio 2022\\Projects\\EmpleyeeManagementSystemSolution\\ServerLibrary\\ServerLibrary.csproj"
+              "C:\\Users\\PrinceMagutshwa\\Documents\\GitHub\\ManageIT\\ServerLibrary\\ServerLibrary.csproj": {
+                "projectPath": "C:\\Users\\PrinceMagutshwa\\Documents\\GitHub\\ManageIT\\ServerLibrary\\ServerLibrary.csproj"
               }
             }
           }

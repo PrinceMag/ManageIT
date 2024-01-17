@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4on4+mnVCEEAE8JNki8pMcuiBwXFI3JxfUm56CXRuYQFLoUH5fyXcTslY8FmzaIAj4mUP9SgK8sVdaGXhyuz9A==",
+  "dgSpecHash": "WYJAVB0j2knuFSybUe3B8579yyzzlmpQHIs+ioADQuS21r0i+lgtjQuu/vPsD7ypJ2s9bpczf24YjoGXFLuG3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PrinceMagutshwa\\Documents\\Visual Studio 2022\\Projects\\EmpleyeeManagementSystemSolution\\ServerLibrary\\ServerLibrary.csproj",
+  "projectFilePath": "C:\\Users\\PrinceMagutshwa\\Documents\\GitHub\\ManageIT\\ServerLibrary\\ServerLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PrinceMagutshwa\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\PrinceMagutshwa\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",

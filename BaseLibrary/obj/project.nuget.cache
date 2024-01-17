@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bN5VuGdXILb1VNVw53huXsWohzqots0y657zV7JdipqT8hbjAj1vmEBJug5mopDmahvZcZBceV6t9yvaS8bKYg==",
+  "dgSpecHash": "siq4IQcSOmeLq3X7+BM2OBw6V954PeN7qsGoULvTNy6nmhNXGyhLl0MPNHpc3SRT8c2hqVnUd2wRqtmhTld4hQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PrinceMagutshwa\\Documents\\Visual Studio 2022\\Projects\\EmpleyeeManagementSystemSolution\\BaseLibrary\\BaseLibrary.csproj",
+  "projectFilePath": "C:\\Users\\PrinceMagutshwa\\Documents\\GitHub\\ManageIT\\BaseLibrary\\BaseLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PrinceMagutshwa\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\PrinceMagutshwa\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

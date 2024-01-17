@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wgTPCyhodyPcv0VI2PKCsGq45vkr5Rx54aSTa/PFuoXTLrLoTi4v6B+fzL+AsoJSoNdjS/K4hqaSwPyQwWOGJQ==",
+  "dgSpecHash": "PUFvzN2Klnc5cX6buombQHybsCbwn31ZreYYrMjFIpw+BJEJWDD1xkqexKGA2Dr62PryqHXrN9k+spc1NKa6Zw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PrinceMagutshwa\\Documents\\Visual Studio 2022\\Projects\\EmpleyeeManagementSystemSolution\\Client\\Client.csproj",
+  "projectFilePath": "C:\\Users\\PrinceMagutshwa\\Documents\\GitHub\\ManageIT\\Client\\Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PrinceMagutshwa\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\PrinceMagutshwa\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.0\\microsoft.aspnetcore.authorization.8.0.0.nupkg.sha512",

@@ -1,43 +1,43 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\PrinceMagutshwa\\Documents\\Visual Studio 2022\\Projects\\EmpleyeeManagementSystemSolution\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "C:\\Users\\PrinceMagutshwa\\Documents\\GitHub\\ManageIT\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "C:\\Users\\PrinceMagutshwa\\Documents\\Visual Studio 2022\\Projects\\EmpleyeeManagementSystemSolution\\Client\\obj\\Debug\\net8.0\\compressed\\4z985wjmjh.gz",
+      "Id": "C:\\Users\\PrinceMagutshwa\\Documents\\GitHub\\ManageIT\\Client\\obj\\Debug\\net8.0\\compressed\\4z985wjmjh.gz",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
-      "Id": "C:\\Users\\PrinceMagutshwa\\Documents\\Visual Studio 2022\\Projects\\EmpleyeeManagementSystemSolution\\Client\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Client.styles.css",
+      "Id": "C:\\Users\\PrinceMagutshwa\\Documents\\GitHub\\ManageIT\\Client\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Client.styles.css",
       "PackagePath": "staticwebassets\\Client.styles.css"
     },
     {
-      "Id": "C:\\Users\\PrinceMagutshwa\\Documents\\Visual Studio 2022\\Projects\\EmpleyeeManagementSystemSolution\\Client\\wwwroot\\css\\app.css",
+      "Id": "C:\\Users\\PrinceMagutshwa\\Documents\\GitHub\\ManageIT\\Client\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Users\\PrinceMagutshwa\\Documents\\Visual Studio 2022\\Projects\\EmpleyeeManagementSystemSolution\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\PrinceMagutshwa\\Documents\\GitHub\\ManageIT\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\PrinceMagutshwa\\Documents\\Visual Studio 2022\\Projects\\EmpleyeeManagementSystemSolution\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\PrinceMagutshwa\\Documents\\GitHub\\ManageIT\\Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\PrinceMagutshwa\\Documents\\Visual Studio 2022\\Projects\\EmpleyeeManagementSystemSolution\\Client\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\PrinceMagutshwa\\Documents\\GitHub\\ManageIT\\Client\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\PrinceMagutshwa\\Documents\\Visual Studio 2022\\Projects\\EmpleyeeManagementSystemSolution\\Client\\wwwroot\\icon-192.png",
+      "Id": "C:\\Users\\PrinceMagutshwa\\Documents\\GitHub\\ManageIT\\Client\\wwwroot\\icon-192.png",
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
-      "Id": "C:\\Users\\PrinceMagutshwa\\Documents\\Visual Studio 2022\\Projects\\EmpleyeeManagementSystemSolution\\Client\\wwwroot\\index.html",
+      "Id": "C:\\Users\\PrinceMagutshwa\\Documents\\GitHub\\ManageIT\\Client\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\PrinceMagutshwa\\Documents\\Visual Studio 2022\\Projects\\EmpleyeeManagementSystemSolution\\Client\\wwwroot\\sample-data\\weather.json",
+      "Id": "C:\\Users\\PrinceMagutshwa\\Documents\\GitHub\\ManageIT\\Client\\wwwroot\\sample-data\\weather.json",
       "PackagePath": "staticwebassets\\sample-data\\weather.json"
     },
     {

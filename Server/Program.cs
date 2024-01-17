@@ -1,6 +1,8 @@
 using Microsoft.EntityFrameworkCore;
 using ServerLibrary.Data;
 using ServerLibrary.Helpers;
+using ServerLibrary.Repositories.Contracts;
+using ServerLibrary.Repositories.Implementations;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -19,7 +21,8 @@ builder.Services.AddDbContext<AppDBContext>(options =>
         throw new InvalidOperationException("Sorry, connection was not found"));
 });
 
-builder.Services.Configure<JWTSection>(builder.Configuration.GetSection("JWTSection"));
+builder.Services.Configure<JwtSection>(builder.Configuration.GetSection("JwtSection"));
+builder.Services.AddScoped<IUserAccount, UserAccountRepository>();
 
 var app = builder.Build();
 

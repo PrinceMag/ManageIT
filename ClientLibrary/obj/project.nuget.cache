@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vqEHlmv43YRbJmIKwcwkNO8bkSyCSbOu/eANwsCMx4jh8IqabHYTr8abg7Fr5JpWVYWGaQcZOv+2iXUdjFlejw==",
+  "dgSpecHash": "U+mOESwewL403C+fRo2vKOyGqj7upLSgFitkVBFBllM//5srAFU07XR2wiuv4q/eSrwPgNYOOVD6YwlHQR1p3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\PrinceMagutshwa\\Documents\\Visual Studio 2022\\Projects\\EmpleyeeManagementSystemSolution\\ClientLibrary\\ClientLibrary.csproj",
+  "projectFilePath": "C:\\Users\\PrinceMagutshwa\\Documents\\GitHub\\ManageIT\\ClientLibrary\\ClientLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PrinceMagutshwa\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.1\\microsoft.entityframeworkcore.8.0.1.nupkg.sha512",
     "C:\\Users\\PrinceMagutshwa\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.1\\microsoft.entityframeworkcore.abstractions.8.0.1.nupkg.sha512",
