@@ -1,0 +1,23 @@
+﻿@page "/identity/account/login"
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-6">
+            <EditForm Enhance Model="User" OnValidSubmit="HandleLogin">
+                <DataAnnotationsValidator />
+                <ValidationSummary />
+                <div class="card">
+                    <div class="card-header">Fill this form to login</div>
+                    <div class="card-body">
+                        <div class="form-group mt-3">Email</div>
+                        <InputText @bind-value="User.Email" class="form-control"></InputText>
+                    </div>
+                </div>
+            </EditForm>
+        </div>
+    </div>
+</div>
+
+@code {
+
+}
