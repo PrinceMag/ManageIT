@@ -17,8 +17,8 @@
 		  <PrivateAssets>All</PrivateAssets>
 		  <IncludeAssets> runtime; build; native; contentfiles; analyzers; buildtransitive </IncludeAssets>
 	  </PackageReference>
-	  <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="7.1.2" />
-	  <PackageReference Include="Microsoft.IdentityModel.JsonWebTokens" Version="7.1.2" />
+	  <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="7.3.1" />
+	  <PackageReference Include="Microsoft.IdentityModel.JsonWebTokens" Version="7.3.1" />
   </ItemGroup>
 
   <ItemGroup>

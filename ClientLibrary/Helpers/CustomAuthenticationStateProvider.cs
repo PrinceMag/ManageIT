@@ -1,6 +1,6 @@
 ﻿using BaseLibrary.DTOs;
 using Microsoft.AspNetCore.Components.Authorization;
-using System.ComponentModel.DataAnnotations;
+using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 
 namespace ClientLibrary.Helpers
@@ -64,7 +64,7 @@ namespace ClientLibrary.Helpers
             var userId = token.Claims.FirstOrDefault(_ => _.Type == ClaimTypes.NameIdentifier);
             var name = token.Claims.FirstOrDefault(_ => _.Type == ClaimTypes.Name);
             var email = token.Claims.FirstOrDefault(_ => _.Type == ClaimTypes.Email);
-            var role = token.Claims.FirstOrDeafult(_ => _.Type == ClaimTypes.Role);
+            var role = token.Claims.FirstOrDefault(_ => _.Type == ClaimTypes.Role);
             return new CustomUserClaims(userId!.Value, name!.Value, email!.Value, role!.Value);
         }
     }

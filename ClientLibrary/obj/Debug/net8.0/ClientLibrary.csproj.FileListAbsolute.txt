@@ -13,12 +13,15 @@ C:\Users\PrinceMagutshwa\Documents\Visual Studio 2022\Projects\EmpleyeeManagemen
 C:\Users\PrinceMagutshwa\Documents\GitHub\ManageIT\ClientLibrary\bin\Debug\net8.0\ClientLibrary.deps.json
 C:\Users\PrinceMagutshwa\Documents\GitHub\ManageIT\ClientLibrary\bin\Debug\net8.0\ClientLibrary.dll
 C:\Users\PrinceMagutshwa\Documents\GitHub\ManageIT\ClientLibrary\bin\Debug\net8.0\ClientLibrary.pdb
+C:\Users\PrinceMagutshwa\Documents\GitHub\ManageIT\ClientLibrary\bin\Debug\net8.0\BaseLibrary.dll
+C:\Users\PrinceMagutshwa\Documents\GitHub\ManageIT\ClientLibrary\bin\Debug\net8.0\BaseLibrary.pdb
 C:\Users\PrinceMagutshwa\Documents\GitHub\ManageIT\ClientLibrary\obj\Debug\net8.0\ClientLibrary.csproj.AssemblyReference.cache
 C:\Users\PrinceMagutshwa\Documents\GitHub\ManageIT\ClientLibrary\obj\Debug\net8.0\ClientLibrary.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\PrinceMagutshwa\Documents\GitHub\ManageIT\ClientLibrary\obj\Debug\net8.0\ClientLibrary.AssemblyInfoInputs.cache
 C:\Users\PrinceMagutshwa\Documents\GitHub\ManageIT\ClientLibrary\obj\Debug\net8.0\ClientLibrary.AssemblyInfo.cs
 C:\Users\PrinceMagutshwa\Documents\GitHub\ManageIT\ClientLibrary\obj\Debug\net8.0\ClientLibrary.csproj.CoreCompileInputs.cache
 C:\Users\PrinceMagutshwa\Documents\GitHub\ManageIT\ClientLibrary\obj\Debug\net8.0\ClientLibrary.sourcelink.json
+C:\Users\PrinceMagutshwa\Documents\GitHub\ManageIT\ClientLibrary\obj\Debug\net8.0\ClientLibrary.csproj.CopyComplete
 C:\Users\PrinceMagutshwa\Documents\GitHub\ManageIT\ClientLibrary\obj\Debug\net8.0\ClientLibrary.dll
 C:\Users\PrinceMagutshwa\Documents\GitHub\ManageIT\ClientLibrary\obj\Debug\net8.0\refint\ClientLibrary.dll
 C:\Users\PrinceMagutshwa\Documents\GitHub\ManageIT\ClientLibrary\obj\Debug\net8.0\ClientLibrary.pdb
