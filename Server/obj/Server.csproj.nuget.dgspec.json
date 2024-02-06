@@ -52,6 +52,10 @@
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.1, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[7.3.1, )"
             }
           },
           "imports": [
@@ -143,11 +147,11 @@
             },
             "Microsoft.IdentityModel.JsonWebTokens": {
               "target": "Package",
-              "version": "[7.1.2, )"
+              "version": "[7.3.1, )"
             },
             "Microsoft.IdentityModel.Tokens": {
               "target": "Package",
-              "version": "[7.1.2, )"
+              "version": "[7.3.1, )"
             }
           },
           "imports": [
@@ -238,11 +242,11 @@
             },
             "Microsoft.IdentityModel.JsonWebTokens": {
               "target": "Package",
-              "version": "[7.1.2, )"
+              "version": "[7.3.1, )"
             },
             "Microsoft.IdentityModel.Tokens": {
               "target": "Package",
-              "version": "[7.1.2, )"
+              "version": "[7.3.1, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
